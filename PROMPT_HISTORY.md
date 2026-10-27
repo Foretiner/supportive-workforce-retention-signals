@@ -1,4 +1,4 @@
-# Workforce Signals & Retention Engine: Developer Prompt Suite
+# Workforce Signals & Retention Engine: Developer Prompts
 
 "I'm leaning toward a scheduled monthly Airflow batch job instead of event streaming because our signals only update monthly or quarterly. Before I lock this in, play devil's advocate: what edge cases or operational headaches will I hit as our workforce data grows?"
 
