@@ -1,0 +1,13 @@
+{
+  "population": 200,
+  "voluntary_attrition_rate": 0.14,
+  "support_checkin_suggestions": 95,
+  "suggestion_rate": 0.475,
+  "precision_against_simulated_labels": 0.2526,
+  "recall_against_simulated_labels": 0.8571,
+  "evaluation_note": "Descriptive retrospective metrics only. For model evaluation use time-based holdout; never interpret as causal or employment decision.",
+  "decision_rules": [
+    "average observed engagement <= 2.8/5",
+    "average pre-cutoff weekly hours > 50"
+  ]
+}

@@ -1,0 +1,29 @@
+intervention_id,employee_id,created_at,intervention_type,status,outcome,actor_role,rationale
+INT-2026-000001,EMP-000006,2026-01-15,Supportive check-in,Completed,Needs follow-up,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000002,EMP-000014,2026-01-15,Supportive check-in,Completed,Needs follow-up,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000003,EMP-000018,2026-01-15,Supportive check-in,Completed,No follow-up requested,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000004,EMP-000022,2026-01-15,Supportive check-in,Completed,Needs follow-up,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000005,EMP-000027,2026-01-15,Supportive check-in,Completed,Needs follow-up,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000006,EMP-000028,2026-01-15,Supportive check-in,Completed,Needs follow-up,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000007,EMP-000036,2026-01-15,Supportive check-in,Completed,Needs follow-up,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000008,EMP-000044,2026-01-15,Supportive check-in,Completed,Needs follow-up,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000009,EMP-000048,2026-01-15,Supportive check-in,Completed,Needs follow-up,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000010,EMP-000050,2026-01-15,Supportive check-in,Completed,No follow-up requested,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000011,EMP-000051,2026-01-15,Supportive check-in,Completed,No follow-up requested,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000012,EMP-000057,2026-01-15,Supportive check-in,Completed,No follow-up requested,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000013,EMP-000060,2026-01-15,Supportive check-in,Completed,No follow-up requested,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000014,EMP-000065,2026-01-15,Supportive check-in,Completed,No follow-up requested,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000015,EMP-000094,2026-01-15,Supportive check-in,Completed,No follow-up requested,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000016,EMP-000101,2026-01-15,Supportive check-in,Completed,Needs follow-up,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000017,EMP-000115,2026-01-15,Supportive check-in,Completed,No follow-up requested,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000018,EMP-000128,2026-01-15,Supportive check-in,Completed,No follow-up requested,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000019,EMP-000141,2026-01-15,Supportive check-in,Completed,No follow-up requested,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000020,EMP-000142,2026-01-15,Supportive check-in,Completed,No follow-up requested,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000021,EMP-000143,2026-01-15,Supportive check-in,Completed,No follow-up requested,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000022,EMP-000153,2026-01-15,Supportive check-in,Completed,No follow-up requested,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000023,EMP-000162,2026-01-15,Supportive check-in,Completed,No follow-up requested,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000024,EMP-000172,2026-01-15,Supportive check-in,Completed,No follow-up requested,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000025,EMP-000177,2026-01-15,Supportive check-in,Completed,No follow-up requested,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000026,EMP-000181,2026-01-15,Supportive check-in,Completed,Needs follow-up,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000027,EMP-000182,2026-01-15,Supportive check-in,Completed,No follow-up requested,Manager,Aggregate pre-horizon workload and survey context; human review required
+INT-2026-000028,EMP-000192,2026-01-15,Supportive check-in,Completed,Needs follow-up,Manager,Aggregate pre-horizon workload and survey context; human review required

@@ -1,0 +1,9 @@
+role_id,role_name,job_family,level
+ROLE-001,Analyst,Individual Contributor,1
+ROLE-002,Senior Analyst,Individual Contributor,2
+ROLE-003,Manager,People Manager,3
+ROLE-004,Senior Manager,People Manager,4
+ROLE-005,Engineer,Individual Contributor,1
+ROLE-006,Senior Engineer,Individual Contributor,2
+ROLE-007,Operations Specialist,Individual Contributor,1
+ROLE-008,Product Lead,People Manager,3

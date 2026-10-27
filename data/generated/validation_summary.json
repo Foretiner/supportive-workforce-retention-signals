@@ -1,0 +1,40 @@
+{
+  "seed": 20261022,
+  "employees": 200,
+  "observation_months": 24,
+  "outcomes": 200,
+  "voluntary_attrition_count": 28,
+  "attrition_rate": 0.14,
+  "rows": {
+    "employees.csv": 200,
+    "roles.csv": 8,
+    "teams.csv": 4,
+    "tenure_snapshots.csv": 200,
+    "engagement_surveys.csv": 1600,
+    "workload_snapshots.csv": 4800,
+    "compensation_bands.csv": 400,
+    "promotion_history.csv": 130,
+    "attrition_outcomes.csv": 200,
+    "interventions.csv": 28,
+    "ground_truth.csv": 4,
+    "edge_feature_examples.csv": 2,
+    "edge_outcome_examples.csv": 1,
+    "edge_decision_examples.csv": 1
+  },
+  "files": {
+    "employees.csv": "db20331c3ed91f8e337be04d8873401b30050ec2bcefc954fd4f71939764b26c",
+    "roles.csv": "9a672f394752fa690d1c5954f6a7c8ccf87cf3e9d8678ae3ae3118fa97eefb9c",
+    "teams.csv": "c1b0227fcf09284730d30cfa39290caf7c0cc035be9945aa6406470da4ae3da0",
+    "tenure_snapshots.csv": "c36cf99cf8d6f19aaf51fb770f2aa0c6fbc32438326e75850ea1ba777c53a9b5",
+    "engagement_surveys.csv": "37cf6ac16ab399d09e966daaa5f2cdd74c20ce6038da3a3e245128b1d77764e0",
+    "workload_snapshots.csv": "30b962c9ddf1714ff4c312275cad8e20afabdfa96cb31c1c970d370ae69bf8a2",
+    "compensation_bands.csv": "8703408f4c4a56c91058c493888ea7ed890ff899986c7bfd9b902af37413a195",
+    "promotion_history.csv": "701b59eee9ae62440e7530405eeb4d5a7079a98224f816e37486debdeb6cc443",
+    "attrition_outcomes.csv": "1d807f89000ea69bd82755256f266f74c921ebade3052a68ee6ca89225afdf05",
+    "interventions.csv": "45e2218456f97851362e96d61d68e085d0e6c8b122dd6ebac78bdea494ae53fa",
+    "ground_truth.csv": "4f6bb5e9bb558c8d46677a224bbe32cbbfce5f2ed301df5545bfa9af85f55ed0",
+    "edge_feature_examples.csv": "f19ef018459d9101e9d07e8f06e6a6acf8ec2de47da29b3827addf534376b901",
+    "edge_outcome_examples.csv": "6e48cdc9ec0c91045b617fed5c8ea68336cb64130e0f6d7e71b7e518b31e7915",
+    "edge_decision_examples.csv": "3b0a891418de70c180b0ac69fa181bb676bcf0817f007147d4dcb6e668de4cdb"
+  }
+}

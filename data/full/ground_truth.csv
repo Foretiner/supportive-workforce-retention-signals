@@ -1,0 +1,5 @@
+case_id,issue_type,entity,record_id,description,expected_decision,ground_truth_label
+EDGE-001,future_information_leak,feature_example,EX-FUTURE-001,Contains a survey value dated after the prediction cutoff.,Reject feature; enforce event_date <= cutoff_date,invalid_feature
+EDGE-002,missing_survey_as_negative,feature_example,EX-MISSING-001,A missing survey was incorrectly converted to the minimum score.,Preserve null and report missingness,invalid_imputation
+EDGE-003,outcome_date_label_mismatch,outcome_example,EX-OUTCOME-001,Label says no attrition but voluntary termination date is in horizon.,Flag inconsistent outcome for review,invalid_outcome
+EDGE-004,unexplained_individual_score,decision_example,EX-SCORE-001,An individual score is shown without reasons or human review.,Suppress score; require explainable aggregate signal and reviewer,unsupported_decision
