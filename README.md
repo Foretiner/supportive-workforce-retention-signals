@@ -6,9 +6,22 @@ A reproducible, entirely synthetic end-to-end workflow for exploring engagement,
 
 Python 3.10 or newer. The project uses only the Python standard library; no install step is needed.
 
+## Download the project
+
+Choose either option:
+
+**Clone with Git** (requires Git installed):
+
+```powershell
+git clone https://github.com/Foretiner/supportive-workforce-retention-signals.git
+cd supportive-workforce-retention-signals
+```
+
+**Or download a ZIP:** open the repository on GitHub, select **Code → Download ZIP**, extract it, and open PowerShell in the extracted `supportive-workforce-retention-signals` folder.
+
 ## Quick start
 
-Run these commands from the project root in PowerShell:
+Run these commands from the project root in PowerShell to generate a small 200-employee sample, validate it, and create supportive check-in suggestions:
 
 ```powershell
 $env:PYTHONPATH = "src"
@@ -17,7 +30,18 @@ python -m workforce_retention.validate --data data/generated
 python -m workforce_retention.analytics --data data/generated --out data/analysis/support_recommendations.csv
 ```
 
-For the requested full baseline volume, use `--employees 10000`. Both modes use the same generator, 24 monthly snapshots (Jan 2024–Dec 2025), and the same 2026 outcome horizon. Default seed: `20261022`.
+## Generate the full dataset
+
+To regenerate the requested 10,000-employee dataset and full analysis outputs, run:
+
+```powershell
+$env:PYTHONPATH = "src"
+python -m workforce_retention.generator --employees 10000 --seed 20261022 --out data/full
+python -m workforce_retention.validate --data data/full
+python -m workforce_retention.analytics --data data/full --out data/full_analysis/support_recommendations.csv
+```
+
+Both sample and full modes use the same generator, 24 monthly snapshots (Jan 2024–Dec 2025), and the same 2026 outcome horizon. Default seed: `20261022`.
 
 ## Pipeline and rules
 
