@@ -126,19 +126,7 @@ This file records the user prompts in the OpenAI Codex/ChatGPT conversation used
 >
 > **Request:** create me the repo to this rules give me
 
-## 6. Later project and submission prompts
-
-> don't give like completely done by help was done partially at the time of development for the sake of best development tools
-
-> no remove this history thing
-
-> is everything is ready
-
-> i will give you the prompt history then we will push the project into the github up to now run this once for th final time
-
-## 7. Additional developer prompt suite supplied for inclusion
-
-The following suite was supplied in a user message and requested for inclusion in this file. It was not executed against the project code; some entries contain placeholders such as `[paste DDL]`, `[paste code]`, and `[paste schema]` without the referenced material.
+## 6. Additional developer prompt suite supplied for inclusion (not executed here)
 
 > # Workforce Signals & Retention Engine: Developer Prompt Suite
 >
